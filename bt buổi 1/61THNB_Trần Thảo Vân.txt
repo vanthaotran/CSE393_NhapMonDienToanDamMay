@@ -1,0 +1,33 @@
+
+
+
+Tính chi phí để triển khai 1 server web_ cấu hình ram 4gb ssd120gb chip 2 nhân trong 1 năm
+- Triển khai hạ tầng máy chủ
+	Mua Ram 4gb = 650k, ssd 120gb = 500k, chip 2 nhân 4 luồng = 6.400k
+	=> Tổng mua đồ: 7.550k
+- Phí cơ sở vật chất:
+	Tiền điện + điều hòa làm mát: 700k 1 tháng => 1 năm = 8.400k
+	Vệ sinh 2 lần 1 năm: 200k
+	Tiền mạng: 200k/1 tháng => 1 năm = 2.400k
+- Nhân sự: 5tr/1 tháng
+- Mua máy chủ ip tĩnh: 1tr4 x 12 tháng = 
+Phải tự cấu hình server, update nếu có quá tải web...
+Tự bảo trì, lo hệ thống làm mát, backup data nếu có xảy ra data loss, có update mới phải cài lại vào máy, có lỗi
+phải tự khắc phục
+==>> Tổng all: 18.550k
+========= 93tr! nhiều thế :v
+
+
+Tính chi phí để triển khai 1 server web_ cấu hình ram 4gb ssd120gb chip 2 nhân trong 1 năm/ CLOUD
+Tính ra 1 năm = 8.064h
+- bizlycloud: 808k/1tháng => 1 năm = 9.696k (ảnh final)
+https://hn.manage.bizflycloud.vn/iaas-cloud/servers/create
+- vultr: 6.624k (ảnh vultr)
+https://www.vultr.com/resources/faq/#accessible_pricing_HF
+
+
+
+
+Lý do tại sao thuê cloud rẻ hơn so với tự build
+- Bán buôn rẻ hơn là bán lẻ
+	

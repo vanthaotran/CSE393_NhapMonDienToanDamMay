@@ -1,0 +1,25 @@
+5 nhà cung cấp dịch vụ cloud ở Việt Nam
+1. Viettel cloud / viettel idc
+2. vng cloud
+3. cmc cloud
+4. vnpt cloud
+5. bizfly cloud
+
+LỢI ÍCH SỬ DỤNG CLOUD
+1.Tiết kiệm chi phí: Điện toán đám mây giúp loại bỏ chi phí đầu tư khi mua phần cứng, 
+phần mềm cũng như thiết lập và chạy các trung tâm dữ liệu tại chỗ.
+2.Quy mô toàn cầu: Các lợi ích của dịch vụ điện toán đám mây bao gồm khả năng mở rộng 
+quy mô một cách toàn cầu.
+3.Hiệu suất: Các dịch vụ Cloud Computing chạy trên mạng lưới trung tâm dữ liệu an toàn 
+trên toàn thế giới. Chúng được nâng cấp thường xuyên lên thế hệ phần cứng điện toán nhanh 
+và hiệu quả mới nhất.
+4.Tính bảo mật: Nhiều nhà cung cấp dịch vụ đám mây đã cung cấp một loạt các chính sách, 
+công nghệ và kiểm soát nhằm củng cố tình trạng bảo mật của bạn nói chung, giúp bảo vệ dữ liệu, 
+ứng dụng và cơ sở hạ tầng của bạn khỏi các mối đe dọa tiềm ẩn.
+5.Tốc độ: Hầu hết các dịch vụ điện toán đám mây đều được cung cấp dịch vụ tự phục vụ và 
+theo yêu cầu. Do đó, ngay cả một lượng lớn tài nguyên máy tính cũng có thể được cung cấp 
+nhanh chóng trong vài phút.
+6.Năng suất: Đối với điện toán đám mây, bạn sẽ không phải dành chi phí cũng như cắt cử 
+nhân viên cho các tác vụ như quản lý, bảo dưỡng và duy trì hệ thống công nghệ thông tin. 
+7.Độ tin cậy: Điện toán đám mây giúp sao lưu dữ liệu, khôi phục sau thảm họa và liên tục 
+kinh doanh dễ dàng và ít tốn kém hơn
